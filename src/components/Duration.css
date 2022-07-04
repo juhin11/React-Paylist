@@ -1,0 +1,9 @@
+.playing{
+    width: 100%;
+    padding: 2rem;
+    font-size: 1.5em;
+    background-color: blueviolet;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+}

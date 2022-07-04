@@ -1,0 +1,28 @@
+*{
+    /* background-color:  rgb(202, 202, 255); */
+}
+
+.container{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: white;
+    align-items: center;
+    position: relative;
+    text-align: center;
+}
+
+p{
+    background-color: white;
+}
+h1{
+    background-color: white;
+}
+.text{
+    text-align: center;
+    background-color: white;
+}
+img{
+    width: 100%;
+}
